@@ -1,0 +1,4 @@
+interface:
+  display_name: "팀장급 경력기술서"
+  short_description: "채용 요건과 경력 근거를 연결하는 한국어 팀장급 경력기술서 작성"
+  default_prompt: "$write-career-description 스킬로 채용 공고와 경력 자료를 대조하여 팀장급 경력기술서를 작성해 줘."
