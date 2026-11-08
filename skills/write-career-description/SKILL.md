@@ -12,6 +12,7 @@ description: Use when drafting, tailoring, or reviewing a Korean 경력기술서
 | 필요한 작업 | 읽을 자료 |
 | --- | --- |
 | 팀장급 공고 비교·출처 확인 | [채용 사례와 작성 근거](references/hiring-research.md) |
+| 한국 테크 기업의 역할·경력 서술·제출 조건 비교 | [한국 테크 기업 사례](references/korean-tech-cases.md) |
 | 새로운 직무 조사·판단 이유와 결과 의미 연결 | [신규 직무 조사와 서술](references/research-and-reasoning.md) |
 | 연구개발·간호·교육·시공·시설·총무·법무·EHS·서비스 사례 | [추가 직무 조사](references/expanded-role-research.md) |
 | 직무 분류·중복 경계·누락 점검 | [책임 기준 직무 분류](references/job-taxonomy.md) |
