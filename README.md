@@ -4,7 +4,7 @@
 
 ## 포함된 스킬
 
-**[write-career-description](skills/write-career-description/SKILL.md)**는 지원 요건에 맞는 프로젝트를 고르고, 책임·판단·행동·성과를 확인된 경력으로 설명한다. 관리자 경력뿐 아니라 기술 리드나 팀장 승진 지원자의 경험도 실제 권한 범위 안에서 작성한다.
+[write-career-description](skills/write-career-description/SKILL.md)는 지원 요건에 맞는 프로젝트를 고르고, 책임·판단·행동·성과를 확인된 경력으로 설명한다. 관리자 경력뿐 아니라 기술 리드나 팀장 승진 지원자의 경험도 실제 권한 범위 안에서 작성한다.
 
 ```text
 $write-career-description 스킬로 이 채용 공고와 경력 자료를 대조해
