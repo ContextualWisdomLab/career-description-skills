@@ -34,7 +34,7 @@ description: Use when drafting, tailoring, or reviewing a Korean 경력기술서
 6. **‘왜?’에 답하는 성과 문장을 완성하라.** [서술 기준](references/research-and-reasoning.md)에 따라 확인된 필요성과 맥락, 선택 이유와 본인의 행동, 결과와 의미를 연결하라. 사례 전체에서 판단의 근거가 드러나게 하되, 모든 문장에 같은 구조를 반복하지 말라. 정기 결산·영업·채용·생산·서비스 운영도 실제 단위와 기간으로 설명하라. 지표의 정의·분모·비교 조건과 팀 성과에 대한 본인의 역할을 보존하라.
 
    자료에 없는 동기·위기·대안·수치·인과를 만들지 말라. 이유가 빠져 있으면 기존 자료를 먼저 확인하고, 남은 핵심 질문만 문서 밖에 두어라. 수치가 없으면 산출물·적용 범위·운영 변화·구체적인 피드백을 쓰고, 계획·시험·도입·실현된 성과를 구분하라.
-7. **한국어와 제출 형식을 다듬어라.** 한국어는 [korean-writing-skills의 korean-editing](https://github.com/ContextualWisdomLab/korean-writing-skills/blob/main/skills/korean-editing/SKILL.md)을 적용해 편집하라. 설치본이 없으면 공식 저장소의 지침을 읽고 적용하라. [제출 전 검수](references/submission-review.md)에 따라 문서별 목적에 맞게 썼는지, 이력서·경력기술서·자기소개서의 사실이 서로 일치하는지 확인하라. DOCX 또는 PDF를 요청받으면 해당 문서 스킬로 생성하고 최종 파일의 모든 쪽을 렌더링해 확인하라.
+7. **한국어와 제출 형식을 다듬어라.** 한국어는 [korean-writing-skills의 korean-editing](https://github.com/ContextualWisdomLab/korean-writing-skills/blob/main/skills/korean-editing/SKILL.md)을 적용해 편집하라. 설치본이 없으면 공식 저장소의 지침을 읽고 적용하라. [제출 전 검수](references/submission-review.md)에 따라 문서별 목적에 맞게 썼는지, 이력서·경력기술서·자기소개서의 사실이 서로 일치하는지 확인하라. 사용자가 포부·기여 방향을 요구하거나 문항이 이를 묻는 경우, [문서 구성](assets/career-description-outline.md)에 따라 확인된 경험 → 지원 직무의 과제 → 앞으로 맡을 행동을 연결하라. 과거 실적과 미래의 방향을 구별하고, 포부를 요청하지 않은 경력기술서나 과거 업무만 허용하는 양식에 자동으로 넣지 말라. DOCX 또는 PDF를 요청받으면 해당 문서 스킬로 생성하고 최종 파일의 모든 쪽을 렌더링해 확인하라.
 8. **완성본을 먼저 전달하라.** 제출용 본문에는 경력과 성과를 쓰고, 작업용 분류 코드·출처 ID·확인 표지·채점표·검수 해설을 섞지 말라. 결과를 이해하는 데 필요한 기간·표본·파일럿 조건은 본문에 남겨라. 이어서 지원 요건과 경력의 차이, 사실관계나 분류를 확인하기 위해 남은 핵심 질문, 수행하지 못한 파일 검증을 간결히 알려라. 근거표는 요청받거나 검토에 필요할 때 별도로 제공하라.
 
 ## 적용 경계
