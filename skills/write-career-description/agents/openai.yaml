@@ -1,5 +1,4 @@
 interface:
   display_name: 팀장급 경력기술서
-  short_description: 책임별 직무를 분류하고 실제 성과를 연결하는 팀장급 경력기술서 작성
-  default_prompt: $write-career-description 스킬로 채용 공고와 경력 자료를 대조해 지원 직무와 실제 책임에 맞는
-    팀장급 경력기술서를 작성해 줘.
+  short_description: 직무를 조사하고 판단의 이유와 성과를 설명하는 팀장급 경력기술서 작성
+  default_prompt: $write-career-description 스킬로 지원 직무를 조사하고 경력 자료를 대조해, 왜 그 판단을 했고 결과가 왜 중요한지 드러나는 팀장급 경력기술서를 작성해 줘.
